@@ -1,0 +1,13 @@
+.search {
+  //position: relative;
+  //left: -120px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 12px 20px;
+  width: 370px;
+  max-width: 90%;
+  border-radius: 10px;
+  font-size: 18px;
+  @media (max-width: 1060px) {
+    margin: 20px;
+  }
+}
